@@ -1,1 +1,15 @@
-{"name":"NoiaDucks","update_authority":"4EzYQyTXDCj3Bw1jBXQuLDwvDBWrNLcvyceK8CZoWV4T","symbol":"NDuck","marketplaces":[{"name":"MagicEden","url":"https://magiceden.io/marketplace/noiaducks","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/noiaducks"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "NoiaDucks",
+  "update_authority": "4EzYQyTXDCj3Bw1jBXQuLDwvDBWrNLcvyceK8CZoWV4T",
+  "symbol": "NDuck",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://magiceden.io/marketplace/noiaducks",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/noiaducks"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

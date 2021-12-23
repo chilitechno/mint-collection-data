@@ -1,1 +1,15 @@
-{"name":"BOSS BULLS \u2122 Club","update_authority":"2gbNtFue7SF3r1ER4vsnrB7ruq6ni7haTpBuAYDQDC6S","symbol":"BBC","marketplaces":[{"name":"MagicEden","url":"https://magiceden.io/marketplace/boss_bulls_club","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/boss_bulls_club"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "BOSS BULLS \u2122 Club",
+  "update_authority": "2gbNtFue7SF3r1ER4vsnrB7ruq6ni7haTpBuAYDQDC6S",
+  "symbol": "BBC",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://magiceden.io/marketplace/boss_bulls_club",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/boss_bulls_club"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

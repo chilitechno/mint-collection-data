@@ -1,1 +1,15 @@
-{"name":"Dill The Seal","update_authority":"FgBJitQuxPwPr9cqLVe8dvSEpyX3GkRXo1pyR5sJvXXD","symbol":"DILLSEAL","marketplaces":[{"name":"MagicEden","url":"https://www.magiceden.io/marketplace/dill_the_seal","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/dill_the_seal"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "Dill The Seal",
+  "update_authority": "FgBJitQuxPwPr9cqLVe8dvSEpyX3GkRXo1pyR5sJvXXD",
+  "symbol": "DILLSEAL",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://www.magiceden.io/marketplace/dill_the_seal",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/dill_the_seal"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

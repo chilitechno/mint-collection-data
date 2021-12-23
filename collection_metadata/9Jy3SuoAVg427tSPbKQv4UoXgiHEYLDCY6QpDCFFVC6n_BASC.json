@@ -1,1 +1,20 @@
-{"name":"Baby Ape Social Club","update_authority":"9Jy3SuoAVg427tSPbKQv4UoXgiHEYLDCY6QpDCFFVC6n","symbol":"BASC","marketplaces":[{"name":"MagicEden","url":"https://magiceden.io/marketplace/baby_ape_social_club","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/baby_ape_social_club"},{"name":"Solanart","url":"https://solanart.io/collections/babyapesocialclub","price_api_url":"https://qzlsklfacc.medianetwork.cloud/query_volume_per_collection?collection=babyapesocialclub"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "Baby Ape Social Club",
+  "update_authority": "9Jy3SuoAVg427tSPbKQv4UoXgiHEYLDCY6QpDCFFVC6n",
+  "symbol": "BASC",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://magiceden.io/marketplace/baby_ape_social_club",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/baby_ape_social_club"
+    },
+    {
+      "name": "Solanart",
+      "url": "https://solanart.io/collections/babyapesocialclub",
+      "price_api_url": "https://qzlsklfacc.medianetwork.cloud/query_volume_per_collection?collection=babyapesocialclub"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

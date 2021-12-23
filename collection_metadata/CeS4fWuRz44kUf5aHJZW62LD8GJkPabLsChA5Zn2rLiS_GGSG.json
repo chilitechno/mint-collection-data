@@ -1,1 +1,20 @@
-{"name":"GGSG: Galactic Geckos","update_authority":"CeS4fWuRz44kUf5aHJZW62LD8GJkPabLsChA5Zn2rLiS","symbol":"GGSG","marketplaces":[{"name":"MagicEden","url":"https://magiceden.io/marketplace/galactic_geckos","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/galactic_geckos"},{"name":"Solanart","url":"https://solanart.io/collections/galacticgeckospacegarage","price_api_url":"https://qzlsklfacc.medianetwork.cloud/query_volume_per_collection?collection=galacticgeckospacegarage"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "GGSG: Galactic Geckos",
+  "update_authority": "CeS4fWuRz44kUf5aHJZW62LD8GJkPabLsChA5Zn2rLiS",
+  "symbol": "GGSG",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://magiceden.io/marketplace/galactic_geckos",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/galactic_geckos"
+    },
+    {
+      "name": "Solanart",
+      "url": "https://solanart.io/collections/galacticgeckospacegarage",
+      "price_api_url": "https://qzlsklfacc.medianetwork.cloud/query_volume_per_collection?collection=galacticgeckospacegarage"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

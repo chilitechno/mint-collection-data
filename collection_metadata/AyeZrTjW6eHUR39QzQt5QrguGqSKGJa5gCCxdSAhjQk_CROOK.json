@@ -1,1 +1,15 @@
-{"name":"The Crooks","update_authority":"AyeZrTjW6eHUR39QzQt5QrguGqSKGJa5gCCxdSAhjQk","symbol":"CROOK","marketplaces":[{"name":"MagicEden","url":"https://magiceden.io/marketplace/the_crooks","price_api_url":"https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/the_crooks"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "The Crooks",
+  "update_authority": "AyeZrTjW6eHUR39QzQt5QrguGqSKGJa5gCCxdSAhjQk",
+  "symbol": "CROOK",
+  "marketplaces": [
+    {
+      "name": "MagicEden",
+      "url": "https://magiceden.io/marketplace/the_crooks",
+      "price_api_url": "https://api-mainnet.magiceden.io/rpc/getCollectionEscrowStats/the_crooks"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}

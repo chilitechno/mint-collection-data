@@ -1,1 +1,15 @@
-{"name":"DeGods","update_authority":"AxFuniPo7RaDgPH6Gizf4GZmLQFc4M5ipckeeZfkrPNn","symbol":"DGOD","marketplaces":[{"name":"AlphaArt","url":"https://alpha.art/collection/degods","price_api_url":"https://apis.alpha.art/api/v1/collection"}],"website_url":null,"is_nsfw":false,"description":null}
+{
+  "name": "DeGods",
+  "update_authority": "AxFuniPo7RaDgPH6Gizf4GZmLQFc4M5ipckeeZfkrPNn",
+  "symbol": "DGOD",
+  "marketplaces": [
+    {
+      "name": "AlphaArt",
+      "url": "https://alpha.art/collection/degods",
+      "price_api_url": "https://apis.alpha.art/api/v1/collection"
+    }
+  ],
+  "website_url": null,
+  "is_nsfw": false,
+  "description": null
+}
