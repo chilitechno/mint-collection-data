@@ -1,7 +1,6 @@
 # mint-collection-data
-Repository for community sourced NFT collection info
 
-Community Sourced Repository For Solana Mint Account Marketplace Data
+Community Sourced Repository For Solana Mint Account Metadata and Marketplace Data (to enable floor price aggregation)
 
 How to contribute to this repository:
 
